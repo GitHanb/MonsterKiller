@@ -1,1 +1,3 @@
 # MonsterKiller
+
+Basic JavaScript application 
